@@ -1,0 +1,4 @@
+########Job List###########
+Job_Id	Arrival_Time
+########Vendor List###########
+Vendor_Id	Vendor_Score
